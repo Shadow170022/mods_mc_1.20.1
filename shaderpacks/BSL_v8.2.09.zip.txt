@@ -1,0 +1,8 @@
+#Sun Jul 14 18:03:09 CST 2024
+shadowDistance=192.0
+MULTICOLORED_BLOCKLIGHT=true
+WAVING_CROP=false
+shadowMapResolution=1536
+WAVING_TALL_PLANT=false
+WAVING_GRASS=false
+DYNAMIC_HANDLIGHT=true

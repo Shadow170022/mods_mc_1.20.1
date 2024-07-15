@@ -1,0 +1,10 @@
+#Wed Jan 24 18:24:44 CST 2024
+cloud_height=368.0
+Clouds=0
+grass_shadows=false
+Lens_Flares=true
+Nearshadowplane=0.07
+shadowMapResolution=1024
+TAA=false
+Waving_Grass=false
+Waving_Leaves=false
